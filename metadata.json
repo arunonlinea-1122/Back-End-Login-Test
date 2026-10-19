@@ -1,0 +1,7 @@
+{
+  "name": "SecAudit Lab - Local Vulnerability & Penetration Testing Workbench",
+  "description": "Comprehensive, modular local penetration testing and security assessment lab for auditing APIs, HTTP headers, SQL injection risks, rate limiting, and defensive security postures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
